@@ -1,0 +1,74 @@
+[
+    {
+        "name": "PairFactory",
+        "proxy": "0xc78ed571D8A5b483Cd7553FA4058cb8EC7a72649"
+    },
+    {
+        "name": "WBONE",
+        "imple": "0x62AEF37A8C20E177Bc4dA6AFf6146275E97f349e"
+    },
+    {
+        "name": "Router",
+        "imple": "0x21fA5E4472FDEaF5FE0DEB5F55f9888Ee29b7084"
+    },
+    {
+        "name": "PairHelper",
+        "imple": "0xF94465C8e1A954Ff79774ACe744b7be2A3B36D92"
+    },
+    {
+        "name": "Shipe",
+        "proxy": "0x354c0D96790E03A5939328b720fD6e42E3fa558A"
+    },
+    {
+        "name": "VeArtProxy",
+        "proxy": "0x338A66e36b0b63d5411365963f1733E89d4d65A8"
+    },
+    {
+        "name": "VotingEscrow",
+        "imple": "0x1222bdd6885a9f286994f6c59A5A3B3b06C4725f"
+    },
+    {
+        "name": "RewardsDistributor",
+        "imple": "0xbb7777fF0BbbBC2A42241761A31C9Ed4AB234Fc4"
+    },
+    {
+        "name": "GaugeFactoryV2",
+        "proxy": "0xeC6E4252dA75E9a280c969c465c227be94479b98"
+    },
+    {
+        "name": "BribeFactoryV3",
+        "proxy": "0x076B2DAd1EA269916003516aA8d3D8027BBA6F37"
+    },
+    {
+        "name": "VoterV2_1",
+        "proxy": "0x59CAe89C8D8Fa9F91179EfDd0EA5cfD50cA26E3D"
+    },
+    {
+        "name": "MinterUpgradeable",
+        "proxy": "0x475218C713f6B1EA43899d8398CF48B00Fc3f90a"
+    },
+    {
+        "name": "PairAPI",
+        "proxy": "0x11046952B3355527F0c2cc7399200f3d8FB05467"
+    },
+    {
+        "name": "RewardAPI",
+        "proxy": "0x590EBe7A3A29f761b12cdAe0DdB14839790389E6"
+    },
+    {
+        "name": "veNFTAPI",
+        "proxy": "0x083da7E8b4746621f1cFBf6eFdD35310e08Ad594"
+    },
+    {
+        "name": "EpochController",
+        "proxy": "0x6d3b1F9301ce81163ECF07A01D40dD0Fb4eb5705"
+    },
+    {
+        "name": "Storage",
+        "proxy": "0x028BfE30936009F4aB39B6fA33Ce7Aa76C31639A"
+    },
+    {
+        "name": "Multicall3",
+        "imple": "0x09CEBcEFB5961D82A6da09F94AAeb2a805ceeA2f"
+    }
+]

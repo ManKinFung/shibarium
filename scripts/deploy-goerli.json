@@ -1,0 +1,86 @@
+[
+    {
+        "name": "USDT",
+        "proxy": "0xDB978076CFe5E473d48131e8deb91532d5019E85"
+    },
+    {
+        "name": "USDC",
+        "proxy": "0x78F08E79894c970d67dDAC19A34CE0aca662EE0C"
+    },
+    {
+        "name": "Multicall3",
+        "imple": "0xBC9978A5153bC8FbF1a7B7529a7C977BeB0B1346"
+    },
+    {
+        "name": "WETH",
+        "imple": "0x863D964654e426a8051C97Fa13CC22f505aee6ad"
+    },
+    {
+        "name": "PairFactory",
+        "proxy": "0xa14281863472dB7c16759aE9EEAd9fdC7fa7Db93"
+    },
+    {
+        "name": "Router",
+        "imple": "0xA2120D0EEd9F6648c6f18498DAb1014cCca07dE7"
+    },
+    {
+        "name": "PairHelper",
+        "imple": "0x77cd9852105AaA494D157fB8f5Bc581ed0d34ed1"
+    },
+    {
+        "name": "Shipe",
+        "proxy": "0xd5B955f9770FA293309C567693C9D77876246a5e"
+    },
+    {
+        "name": "VeArtProxy",
+        "proxy": "0x9e5C63d84D379C9c30F660f59Aba00FB70f0aCA1"
+    },
+    {
+        "name": "VotingEscrow",
+        "imple": "0x12a97B2c254BB6CD132E3201CFBDb1DcbC5C5616"
+    },
+    {
+        "name": "RewardsDistributor",
+        "imple": "0xaF60c30d936AD75F6249Ea876EBc84F59afB17FB"
+    },
+    {
+        "name": "GaugeFactoryV2",
+        "proxy": "0xf49e72D05fF7AaA26341cb891e611a99bAAf9852"
+    },
+    {
+        "name": "BribeFactoryV3",
+        "proxy": "0xCAB24C58a17898fE79f6Cb38D240eeeFC6339F60"
+    },
+    {
+        "name": "VoterV2_1",
+        "proxy": "0xa8b0d7Fb2A1A4e73F7b07d9050922E3Da41406c7"
+    },
+    {
+        "name": "MinterUpgradeable",
+        "proxy": "0x17a8DaCfe4d42613C72Aa50d78AB0e226aF3eD70"
+    },
+    {
+        "name": "PairAPI",
+        "proxy": "0x55cB91fC527A1bA6fa1743346de7Fa42aa078a98"
+    },
+    {
+        "name": "RewardAPI",
+        "proxy": "0xf4A69c6823d866ba4c5dce38b88576c41e5aE453"
+    },
+    {
+        "name": "veNFTAPI",
+        "proxy": "0xF9004C9D9297C8aF5c2CAADC6432993684F3f0C5"
+    },
+    {
+        "name": "EpochController",
+        "proxy": "0xd920f283b3421b77D48e3c522D63319735c96e7B"
+    },
+    {
+        "name": "Storage",
+        "proxy": "0x304FDFb2Eb7DF04F1bF7F44a7Ae97E5F723c6eD7"
+    },
+    {
+        "name": "Airdrop",
+        "imple": "0x40ab19E7D4C4dcbfe2Dde4c843419D1B48fb6a61"
+    }
+]
